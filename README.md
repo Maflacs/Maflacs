@@ -18,7 +18,7 @@ Skills:
 ![React](https://img.icons8.com/color/48/000000/react-native.png)
 ![Git](https://img.icons8.com/color/48/000000/git.png)
 
-
+![](https://komarev.com/ghpvc/?username=your-github-maflacs)
 
 <!--
 **Maflacs/Maflacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
