@@ -1,6 +1,17 @@
 <h1 align="center">Hello World, I'm Éva Kossa!👋</h1>
 <h3 align="center">I am a frontend developer</h3>
 
+---
+🔭 I’m currently looking for a work
+
+🌱 I’m currently learning React Native, NodeJS & MongoDB
+
+---
+
+Skills:
+
+
+
 <!--
 **Maflacs/Maflacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
