@@ -20,6 +20,12 @@ Skills:
 
 ---
 
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=maflacs)](https://github.com/maflacs)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maflacs&layout=compact)](https://github.com/maflacs)
+
+---
+
 ![](https://komarev.com/ghpvc/?username=your-github-maflacs)
 
 <!--
